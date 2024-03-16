@@ -71,3 +71,6 @@ The future plan for the project is to make it accurate and efficient by using ad
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
