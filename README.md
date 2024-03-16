@@ -5,10 +5,10 @@
     ⭐️ Human-Computer Interaction ⭐️ <br>
 </h1>
 
-#  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
+
 
 This project highlights the real-time nature of the project, showcasing various HCI innovations such as virtual mouse control, volume adjustment through hand gestures, eye-controlled mouse functionality, and real-time photo capture. It conveys the dynamic and interactive nature of your code.
-![image]()
+
 
 :point_right:OBJECTIVE : To develop an accurate and responsive hand-controlled mouse interface using computer vision to provide users with a natural, hands-free interaction method that enhances accessibility, productivity, and creativity in digital environments in a different ways.
 
