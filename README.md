@@ -6,7 +6,9 @@
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
-mention the description here , mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
+Main Obective is to develop an accurate and responsive hand-controlled mouse interface using computer vision to provide users with a natural, hands-free interaction method that enhances accessibility, productivity, and creativity in digital environments in a different ways.
+![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/57699240-c421-4524-80ef-6fb2781f18ba)
+, mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
 ## Team Details
 `Team number` : VH000
 
