@@ -1,8 +1,8 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="https://www.google.com">Gesture Based Multi-model Human-Computer Interaction System </a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️ Human-Computer Interaction ⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
@@ -12,9 +12,11 @@ mention the description here , mention what does your prototype does  , make sur
 
 | Name    | Email           |
 |---------|-----------------|
-| person1 | person1@gmail.com |
-| person2 | person2@gmail.com |
-| person3 | person3@gmail.com |
+| person1 | 9921004705@klu.ac.in  |
+| person2 | 9921004468@klu.ac.in  |
+| person3 | 99210041637@klu.ac.in |
+|         | 99210041@klu.ac.in |
+
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
