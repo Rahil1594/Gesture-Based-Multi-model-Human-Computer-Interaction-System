@@ -19,7 +19,7 @@ This project highlights the real-time nature of the project, showcasing various 
 
 
 ![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/57699240-c421-4524-80ef-6fb2781f18ba)
-, mention what does your prototype does  , make sure that demo video also has narration made by the team members and shows the entire walkthrough of the project , for hardware projects , images , working video and code are required
+
 ## Team Details
 `Team number` : VH109
 
@@ -31,17 +31,21 @@ This project highlights the real-time nature of the project, showcasing various 
 | Venkat Shiva      | 99210041@klu.ac.in    |
 
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
-       <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+
+
+
+
+<div
+alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/9b438930-5b48-4a2d-abdb-e40850a122bd" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/74db2919-bc4b-4b04-bace-b3670bad306c" alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="(https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/f1eecdbf-babf-4068-b047-62077bdbbf9e" 
 </div>
 
 
-##PROBLEM STATEMENT : Develop a graphical user interface (GUI) application that uses computer vision techniques to enable various interactions with the computer, including hand gesture-based volume control, virtual mouse control using hand movements, eye-controlled mouse movement and clicking, and capturing and displaying images from the webcam.
+
+
+:point_right:PROBLEM STATEMENT : Develop a graphical user interface (GUI) application that uses computer vision techniques to enable various interactions with the computer, including hand gesture-based volume control, virtual mouse control using hand movements, eye-controlled mouse movement and clicking, and capturing and displaying images from the webcam.
 
 
 ## About the project
