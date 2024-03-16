@@ -8,9 +8,9 @@
 #  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
 
 This project highlights the real-time nature of the project, showcasing various HCI innovations such as virtual mouse control, volume adjustment through hand gestures, eye-controlled mouse functionality, and real-time photo capture. It conveys the dynamic and interactive nature of your code.
-![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/2f392756-30a7-432b-84eb-e313ee306322)
+![image]()
 
--->OBJECTIVE : To develop an accurate and responsive hand-controlled mouse interface using computer vision to provide users with a natural, hands-free interaction method that enhances accessibility, productivity, and creativity in digital environments in a different ways.
+:point_right:OBJECTIVE : To develop an accurate and responsive hand-controlled mouse interface using computer vision to provide users with a natural, hands-free interaction method that enhances accessibility, productivity, and creativity in digital environments in a different ways.
 
 
 
