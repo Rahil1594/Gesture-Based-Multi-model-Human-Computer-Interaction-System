@@ -10,12 +10,12 @@ mention the description here , mention what does your prototype does  , make sur
 ## Team Details
 `Team number` : VH000
 
-| Name    | Email           |
-|---------|-----------------|
-| person1 | 9921004705@klu.ac.in  |
-| person2 | 9921004468@klu.ac.in  |
-| person3 | 99210041637@klu.ac.in |
-|         | 99210041@klu.ac.in |
+| Name              | Email                 |
+|-------------------|-----------------------|
+| S.Md.Rahil Azam   | 9921004705@klu.ac.in  |
+| M.Mujeeb          | 9921004468@klu.ac.in  |
+| S.Mohaseen Sameer | 99210041637@klu.ac.in |
+| Venkat Shiva      | 99210041@klu.ac.in    |
 
 
 <div style="display: flex; flex-wrap: wrap;">
