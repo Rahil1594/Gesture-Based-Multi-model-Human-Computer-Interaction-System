@@ -28,14 +28,17 @@ This project highlights the real-time nature of the project, showcasing various 
 
 
 
+![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/91368b80-73a2-4f3a-8cd6-3c7ac7d9d8b7)
 
 
 
 <div
 alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/9b438930-5b48-4a2d-abdb-e40850a122bd" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/74db2919-bc4b-4b04-bace-b3670bad306c" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img src="(https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/f1eecdbf-babf-4068-b047-62077bdbbf9e" 
+    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/74db2919-bc4b-4b04-bace-b3670bad306c" 
+        alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="(![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/1e984140-6167-437a-8b9f-170764196909)
+" 
 </div>
 
 
