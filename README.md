@@ -2,7 +2,7 @@
     <b>
         <a href="https://www.google.com">Gesture Based Multi-model Human-Computer Interaction System </a><br>
     </b>
-    ⭐️ Human-Computer Interaction ⭐️ <br>
+   ⭐ Human-Computer Interaction ⭐<br>
 </h1>
 
 # [`Demo video link `](https://www.youtube.com/watch?v=FJETuAvrsys&t=19s)
