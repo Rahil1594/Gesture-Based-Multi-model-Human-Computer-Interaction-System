@@ -10,6 +10,8 @@
 This project highlights the real-time nature of the project, showcasing various HCI innovations such as virtual mouse control, volume adjustment through hand gestures, eye-controlled mouse functionality, and real-time photo capture. It conveys the dynamic and interactive nature of your code.
 
 
+
+
 :point_right:OBJECTIVE : To develop an accurate and responsive hand-controlled mouse interface using computer vision to provide users with a natural, hands-free interaction method that enhances accessibility, productivity, and creativity in digital environments in a different ways.
 
 
@@ -22,7 +24,7 @@ This project highlights the real-time nature of the project, showcasing various 
 | S.Md.Rahil Azam   | 9921004705@klu.ac.in  |
 | M.Mujeeb          | 9921004468@klu.ac.in  |
 | S.Mohaseen Sameer | 99210041637@klu.ac.in |
-| Venkat Shiva      | 99210041504@klu.ac.in    |
+| Venkat Shiva      | 99210041504@klu.ac.in |
 
 
 
@@ -35,6 +37,8 @@ alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/74db2919-bc4b-4b04-bace-b3670bad306c" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="(https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/f1eecdbf-babf-4068-b047-62077bdbbf9e" 
 </div>
+
+
 
 
 
@@ -53,10 +57,14 @@ mention the approach and how you have solved the problem with the technology , u
 
 - We have used OpenCV for Camera Calibration and 3D Reconstruction.
 - And then the algorithm converts one color space into RGB to BGR.
-- By using the camera algorithm uses some pakages to detect Hand Gestures for the further functioning.
-- After that by using PyatoGUI a user can increase or decrease the volume
+- By using the camera , the algorithm uses some pakages to detect Hand Gestures for the further functioning.
+- After that PyatoGUI contols the increase or decrease in the volume.
+- Use your thumb and index finger to use this function.
 - Similarly,for the virtual mouse a user can move the pointer by using hand gestures.
 ![flowchart](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/72bdc8f4-d0d5-4fcb-9ace-f6e0694d4334)
+
+
+
 
 ## Techstacks used 
 'PY3' ,'OpenCV'
@@ -69,14 +77,15 @@ steps to run the project:
 4. Wait for the camera to open.
 5. Show your hand to camera to use mouse pointer or to use other functionalities.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
 # What's next ?
 The future plan for the project is to make it accurate and efficient by using advanced processors,by allowing smooth accessability for the user.
 
 
+
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
+
+
 
 
