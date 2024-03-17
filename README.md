@@ -55,33 +55,38 @@ The system increases accessibility and user experience greatly by allowing peopl
 
 
 
-## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
+## Technical implementation 
 
 - We have used OpenCV for Camera Calibration and 3D Reconstruction.
 - And then the algorithm converts one color space into RGB to BGR.
-- By using the camera , the algorithm uses some pakages to detect Hand Gestures for the further functioning.
-- After that PyatoGUI contols the increase or decrease in the volume.
+- By using OpenCV for camera, the PyautoGUI helps to detect Hand Gestures for the further functioning.
+- By action with fingers PyatoGUI contols the increase or decrease in the volume.
 - Use your thumb and index finger to use this function.
 - Similarly,for the virtual mouse a user can move the pointer by using hand gestures.
-![flowchart](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/72bdc8f4-d0d5-4fcb-9ace-f6e0694d4334)
 
+![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/bab1e2bc-f70c-46b1-9de0-fa302ce49f69)
 
 
 
 ## Techstacks used 
-'PY3' ,'OpenCV'
+'PY3' , 'OpenCV'
+
 
 ## How to run locally 
 steps to run the project:
 1. clone the repository.
 2. install all dependecies--> pip install -r requirement.txt.
 3. Run Code Especially in "IDLE PYTHON MODULE".
-4. Wait for the camera to open.
-5. Show your hand to camera to use mouse pointer or to use other functionalities.
+4. Select required button from Dialogue Box.
+5. And Wait for the camera to open.
+6. Show your hand infront of camera to use mouse pointer or to use other functionalities.
 
 
-# What's next ?
+# NOTE : The accuracy and performance of the algorithm depends on the System Processesor.
+   
+            
+
+## What's next ?
 The future plan for the project is to make it accurate and efficient by using advanced processors,by allowing smooth accessability for the user.
 
 
