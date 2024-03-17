@@ -14,12 +14,6 @@ This project highlights the real-time nature of the project, showcasing various 
 
 
 
-![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/02d5df8c-e6b5-46ce-90af-5e0bf7f5602b)
-
-
-
-![image](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/57699240-c421-4524-80ef-6fb2781f18ba)
-
 ## Team Details
 `Team number` : VH109
 
@@ -28,7 +22,7 @@ This project highlights the real-time nature of the project, showcasing various 
 | S.Md.Rahil Azam   | 9921004705@klu.ac.in  |
 | M.Mujeeb          | 9921004468@klu.ac.in  |
 | S.Mohaseen Sameer | 99210041637@klu.ac.in |
-| Venkat Shiva      | 99210041@klu.ac.in    |
+| Venkat Shiva      | 99210041504@klu.ac.in    |
 
 
 
@@ -53,28 +47,35 @@ alt="Image 2" style="width: 30%; margin: 5px;">
 The system increases accessibility and user experience greatly by allowing people to control and interact with computers through gestures, thus providing an alternative to traditional input devices. It also has the potential to empower people with motor disabilities by giving them more independence and access to digital resources.  
 
 
+
 ## Technical implemntaion 
 mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
 
-- be consise and specific
-- explain with images and flowcharts
-- 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+- We have used OpenCV for Camera Calibration and 3D Reconstruction.
+- And then the algorithm converts one color space into RGB to BGR.
+- By using the camera algorithm uses some pakages to detect Hand Gestures for the further functioning.
+- After that by using PyatoGUI a user can increase or decrease the volume
+- Similarly,for the virtual mouse a user can move the pointer by using hand gestures.
+![flowchart](https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/72bdc8f4-d0d5-4fcb-9ace-f6e0694d4334)
 
 ## Techstacks used 
-'PY3' 
+'PY3' ,'OpenCV'
 
 ## How to run locally 
 steps to run the project:
-1. checkout/download repository code.
-2. install all dependecies--> pip install - required libraries as in code.
+1. clone the repository.
+2. install all dependecies--> pip install -r requirement.txt.
 3. Run Code Especially in "IDLE PYTHON MODULE".
+4. Wait for the camera to open.
+5. Show your hand to camera to use mouse pointer or to use other functionalities.
+
+
 
 # What's next ?
 The future plan for the project is to make it accurate and efficient by using advanced processors,by allowing smooth accessability for the user.
 
+
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+
