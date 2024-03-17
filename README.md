@@ -24,7 +24,7 @@ It highlights the real-time nature of the project, showcasing various HCI innova
 | S.Md.Rahil Azam   | 9921004705@klu.ac.in  |
 | M.Mujeeb          | 9921004468@klu.ac.in  |
 | S.Mohaseen Sameer | 99210041637@klu.ac.in |
-| Venkat Shiva      | 99210041504@klu.ac.in |
+| A.Venkat Shiva    | 99210041504@klu.ac.in |
 
 
 
