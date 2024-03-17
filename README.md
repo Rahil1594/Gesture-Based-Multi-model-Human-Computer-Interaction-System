@@ -75,7 +75,7 @@ The system increases accessibility and user experience greatly by allowing peopl
 ## How to run locally 
 steps to run the project:
 1. clone the repository.
-2. install all dependecies--> pip install -r requirement.txt.
+2. install all dependecies--> pip install -r requirements.txt.
 3. Run Code Especially in "IDLE PYTHON MODULE".
 4. Select required button from Dialogue Box.
 5. And Wait for the camera to open.
