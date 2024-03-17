@@ -7,7 +7,7 @@
 
 # [`Demo video link `](https://www.youtube.com/watch?v=FJETuAvrsys&t=19s)
 
-It highlights the real-time nature of the project, showcasing various HCI innovations such as virtual mouse control, volume adjustment through hand gestures, eye-controlled mouse functionality, and real-time photo capture. It conveys the dynamic and interactive nature of your code.
+It highlights the real-time nature of the project, showcasing various HCI innovations such as virtual mouse control, volume adjustment through hand gestures, eye-controlled mouse functionality, and real-time photo capture. It conveys the dynamic and interactive nature of code.
 
 
 
@@ -32,17 +32,18 @@ It highlights the real-time nature of the project, showcasing various HCI innova
 
 <div
 alt="Image 1" style="width: 10%; margin: 5px;">
-    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/91368b80-73a2-4f3a-8cd6-3c7ac7d9d8b7"
-alt="Image 2" style="width: 30%; margin: 5px;">
-    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/74db2919-bc4b-4b04-bace-b3670bad306c" 
- alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/9b438930-5b48-4a2d-abdb-e40850a122bd"
+alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System-VH109-/assets/158186032/91368b80-73a2-4f3a-8cd6-3c7ac7d9d8b7"
+ alt="Image 3" style="width: 30%; margin: 5px;">
+    <img src="https://github.com/Rahil1594/Gesture-Based-Multi-model-Human-Computer-Interaction-System/assets/158186032/74db2919-bc4b-4b04-bace-b3670bad306c" 
 </div>
 
 
 
 
-:point_right:PROBLEM STATEMENT : Develop a graphical user interface (GUI) application that uses computer vision techniques to enable various interactions with the computer, including hand gesture-based volume control, virtual mouse control using hand movements, eye-controlled mouse movement and clicking, and capturing and displaying images from the webcam.
+## :point_right:Problem Statement
+Develop a graphical user interface (GUI) application that uses computer vision techniques to enable various interactions with the computer, including hand gesture-based volume control, virtual mouse control using hand movements, eye-controlled mouse movement and clicking, and capturing and displaying images from the webcam.
 
 
 ## About the project
