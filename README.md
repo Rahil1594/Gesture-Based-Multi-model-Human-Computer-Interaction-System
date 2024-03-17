@@ -69,7 +69,8 @@ steps to run the project:
 4. Wait for the camera to open.
 5. Show your hand to camera to use mouse pointer or to use other functionalities.
 
-
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 # What's next ?
 The future plan for the project is to make it accurate and efficient by using advanced processors,by allowing smooth accessability for the user.
